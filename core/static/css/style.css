@@ -1,0 +1,17 @@
+html
+{
+    scroll-behavior: smooth;
+}
+
+body
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 19px;
+  line-height: 30px;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #36494b;
+  color: white;
+  overflow-x: hidden;
+}
