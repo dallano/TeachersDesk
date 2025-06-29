@@ -1,2 +1,1 @@
-# TeachersDesk
-Automation tool for Teachers
+# README (For now, dev notes)
